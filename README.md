@@ -12,6 +12,6 @@ https://drive.google.com/drive/folders/1DHmiH-hhnT9EjqWBcaMuNz7g4s7kGWnI?usp=sha
 The code structure is shown below. Note that all datafiles in the google drive has to be in the same folder as the files below.
 
     .
-    ├── invlib.py                   # Load manifolds and points for connecting geodesic
-    ├── nnmodel.ipynb                         # Times length and runtime for different optimization algorithms to consturct geodesic
+    ├── invlib.py                   # invlib
+    ├── nnmodel.ipynb               # models
     └── README.md
